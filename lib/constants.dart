@@ -1,0 +1,1 @@
+const String LOCAL_STORAGE_KEY = "LYRICS";
